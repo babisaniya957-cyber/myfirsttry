@@ -1,0 +1,90 @@
+.content
+{
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 0px 0px 0px 0.1px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration:underline rgb(82, 82, 232);
+    
+}
+.subcontent
+{
+    font-size: 20px;
+    color: rgb(82, 82, 232);
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.main
+{
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.link
+{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(82, 82, 232);
+}
+.box1
+{
+    border: 2px dotted red;
+    margin-right: 15px;
+    font-size: 20px;
+    margin-left:40px;
+    padding: 20px;
+    background-color: rgb(251, 246, 253);
+    display: left;
+}
+.boxcontent
+{
+    font-size: 20px;
+    color: rgb(82, 82, 232);
+}
+.img
+{
+    float: right;
+    width:60px;
+    height: 60px;
+}
+.box2
+{
+    border: 2px dotted rgb(131, 236, 143);
+    margin-right: 15px;
+    font-size: 20px;
+    margin-left:20px;
+    padding: 20px;
+    background-color: rgb(234, 254, 243);
+    display: right;
+    
+}
+.sec 
+{
+    display: flex;
+}
+
+.redtext
+{
+    color: rgb(166, 92, 92);
+}
+
+.input
+{
+    padding:8px;
+    border-radius: 2px;
+}
+
+.setimg
+{
+    height: 200px;
+    width:200px;
+    display: right;
+}
+
+.setunderline
+{
+    align-items:cover;
+    width:100px;
+}

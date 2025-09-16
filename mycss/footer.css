@@ -1,0 +1,51 @@
+.enroll
+{
+    background-color: rgb(253, 228, 215);
+    text-align: center;
+    padding: 20px;
+}
+.boxmerge
+{
+    display: center;
+}
+.fbutton
+{
+    background-color: rgb(52, 52, 176);
+    border-radius: 2px;
+    padding:8px;
+}
+.address
+{
+    display: flex;
+    margin: 10px;
+}
+.table
+{
+    flex:1 1 200px;
+    margin: 40px;
+}
+.addressimg
+{
+    width:15px;
+    height:15px;
+}
+.setimg
+{
+    height: 200px;
+    width:200px;
+    display: right;
+}
+.link
+{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(82, 82, 232);
+}
+.footer-bottom {
+  background-color: #2f3e96;
+  color: #fff;
+  text-align: center;
+  padding: 15px 10px;
+  margin-top: 20px;
+  font-size: 14px;
+}
