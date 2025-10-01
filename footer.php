@@ -26,12 +26,12 @@
 				<td><h1>Contact</h1></td>
 			</tr>
 			<tr>
-				<td><a href="home.php" class="link"> Home</a></td>
+				<td><a href="index.php" class="link">Home</a></td>
 				<td><a href="training.php" class="link"> Advanced Java Full Stack Development</a></td>
 				<td><a href="#" class="link"><img src="img\location.png" class="addressimg">B/h, Tanishq Jewellers, A-30, Mahalaxmi Complex, 2, Radhanpur Road, Mehsana, Gujarat 384002</a></td>
 			</tr>
 			<tr>
-				<td><a href="home.php" class="link">About</td>
+				<td><a href="about.php" class="link">About</td>
 				<td><a href="training.php" class="link">Python Full Stack Development</a></td>
 				<td><a href="#" class="link"><img src="img\contact.jpeg" class="addressimg">+91 9724832978</a></td>
 			</tr>
@@ -41,7 +41,7 @@
 				<td><a href="#" class="link"><img src="img\email.jpeg" class="addressimg">I-Smart-Tech@gmail.com</a></td>
 			</tr>
 			<tr>
-				<td><a href="home.php" class="link">Services</td>
+				<td><a href="index.php" class="link">Services</td>
 				<td><a href="training.php" class="link">PHP Full Stack Development</a></td>
 			</tr>
 			<tr>

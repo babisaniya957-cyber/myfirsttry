@@ -9,7 +9,7 @@
                     <img src="img\logo-removebg-preview.png" style="width:80px; height:80px;z-index: inherit;">
                 </div>
                 <ul>
-                    <li><a href="home.php">HOME</a></li>
+                    <li><a href="index.php">HOME</a></li>
                     <li><a href="training.php">COURSE</a></li>
                     <li><a href="contact.php">CONTACT</a></li>
                     <li><a href="about.php">ABOUT US</a></li>
